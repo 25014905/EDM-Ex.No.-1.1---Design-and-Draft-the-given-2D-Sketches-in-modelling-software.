@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
+![image](https://github.com/25014905/EDM-Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./blob/main/Screenshot%202026-04-08%20140831.png?raw=true)
+![image](https://github.com/25014905/EDM-Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./blob/main/Screenshot%202026-04-08%20140831.png?raw=true)
 
 NAME: MIRDULA D
 ## RESULT
